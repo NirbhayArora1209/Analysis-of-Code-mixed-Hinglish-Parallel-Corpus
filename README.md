@@ -65,4 +65,4 @@ Code Mixing, the use of multiple languages in a single speech, is prevalent in s
 
 - `PROJECT ANALYSIS.ipynb`: Code file.
 - `DATASET`: Dataset file.
-- `Link for Survey on Readability`: Survey file for readability comparison.
+- `Survey on Readability`: Survey file for readability comparison.
